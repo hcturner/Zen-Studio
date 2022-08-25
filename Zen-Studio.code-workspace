@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Zen-Studio",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "G:\\IOC WEB DEV COURSE\\09 Building a simple landing page\\Zen Studio - yoga site\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Zen-Studio"
+	}
+}
